@@ -1,29 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="140" height="140" viewBox="0 0 140 140">
 	<!-- card background -->
-	<rect width="140" height="140" fill="#0d152b" />
+	<rect width="140" height="140" fill="#1c284a" />
 
 	<!-- dot grid texture -->
 	<defs>
 		<pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse">
-			<circle cx="2" cy="2" r="1" fill="#24325c" opacity="0.5" />
+			<circle cx="2" cy="2" r="1" fill="#3a4d85" opacity="0.5" />
 		</pattern>
 	</defs>
 	<rect width="140" height="140" fill="url(#dots)" />
 
 	<!-- topography contour lines -->
-	<g fill="none" stroke="#2c3f70" stroke-width="1.4" opacity="0.85">
+	<g fill="none" stroke="#41599a" stroke-width="1.4" opacity="0.8">
 		<path d="M 22,55 C 14,42 20,24 38,20 C 56,16 74,26 76,44 C 78,60 66,74 48,76 C 32,78 20,70 22,55 Z" />
 		<path d="M 34,52 C 30,44 34,34 44,32 C 54,30 64,36 65,46 C 66,56 58,64 48,65 C 40,66 36,60 34,52 Z" />
 		<path d="M 100,100 C 92,92 92,78 104,72 C 116,66 132,72 136,86 C 140,100 130,112 116,112 C 106,112 104,106 100,100 Z" />
 	</g>
 
 	<!-- faint accent mark, bottom-left -->
-	<g transform="translate(6,108) scale(0.3)" fill="#e17a47" opacity="0.25">
+	<g transform="translate(6,108) scale(0.3)" fill="#ca8968" opacity="0.25">
 		<path d="M 33,40 C 29,20 38,4 46,7 C 54,10 68,24 65,38 C 80,31 96,39 93,53 C 90,67 76,72 62,68 C 66,84 56,97 50,94 C 44,91 34,79 35,64 C 19,70 4,62 7,47 C 10,32 22,35 33,40 Z" />
 	</g>
 
 	<!-- primary Half Five logo mark -->
-	<g transform="translate(20,21)" fill="#e17a47">
+	<g transform="translate(20,21)" fill="#ca8968">
 		<path d="M 33,40 C 29,20 38,4 46,7 C 54,10 68,24 65,38 C 80,31 96,39 93,53 C 90,67 76,72 62,68 C 66,84 56,97 50,94 C 44,91 34,79 35,64 C 19,70 4,62 7,47 C 10,32 22,35 33,40 Z" />
 	</g>
 </svg>
