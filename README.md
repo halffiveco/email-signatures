@@ -11,6 +11,7 @@ The photo and logo mark are hosted on GitHub Pages, in the `signature/` folder o
 
 - https://fwmoor.github.io/signature/fred-moor.jpg (240×240, shown at 64px)
 - https://fwmoor.github.io/signature/half-five-mark.png (72×72, shown at 17px)
+- https://fwmoor.github.io/signature/linkedin.png (72×72, shown at 18px, links to the Half Five company page)
 
 To change an image, replace it there and push. Emails you've already sent use the same links, so they'll show the new image too.
 
